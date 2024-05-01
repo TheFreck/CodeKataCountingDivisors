@@ -6,9 +6,13 @@ Your solution should work for possibly large values of n without a timeout. Assu
 
 For example:
 S(1) = 1
+
 S(2) = 3
+
 S(3) = 5
+
 S(4) = 8
+
 S(5) = 10
 
 But is the fact useful anyway? If you find it is rather not, maybe this will help:
